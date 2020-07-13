@@ -62,7 +62,8 @@ As a web developer I want to:
 
 
 ####  User: Amber
-![Amber](./Img/UserAvatar/3.png)
+
+![Amber](./Img/UserAvatar/8.png)
 
 Amber single mother who is wanting to get into tech for a career change. She is currently working as a nurse full time. She is a self taught beginner coder. Amber has weekends and early mornings to practice. 
 
@@ -74,6 +75,7 @@ As a beginner coder I want to:
 
 
 ####  User: Melissa
+
 ![Melissa](./Img/UserAvatar/1.png)
 
 Melissa is a highschool student that likes video games and has an interest in tech but she sees that tech and video games are dominated by men. She would like to find a community where she feels safe and not afraid of asking questions.

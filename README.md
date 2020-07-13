@@ -46,43 +46,17 @@ This website is catered for women whom are located in Australia. More specifical
 
 ## R4. User Stories
 
+User: Natalie
 
+![Natalie Broughton](Img/4.png)
 
----
+### Profile
+Residing in Brisbane, Natalie has been working in the technlogy industry for five years. Natalie studied computer science at university and is currently working as a mid level software developer. She is wanting to connect with and provide mentorship for women in the industry.
 
-
-
-
-# <p align="center"> User Stories
-</p>
-
-####  User: Amber
-<p align="center">
-  <img  src="./img/UserAvatar/2.png">
-</p>
-
-Amber single mother who is wanting to get into tech for a career change. She is currently working as a nurse full time. She is a self taught beginner coder. Amber has weekends and early mornings to practice. 
-
-As a beginner coder I want to:
--  be able to socially connect with other beginner coders. 
-- I want to find collaborations with other beginner programmers so I can practice using source control. 
--  I want to have the ability post blogs and have other users comment and give critque of my blog.
-- I want the ability to connect with already established women in tech for advice so I hear about multiple experiences for a better understanding about the industry.
-
-
-
-####  User: Melissa
-<p align="center">
-  <img  src="">
-</p>
-
-Melissa is a highschool student that likes video games and has an interest in tech but she sees that tech and video games are dominated by men. She would like to find a community where she feels safe and not afraid of asking questions.
-
-As a beginner coder I want to:
-Be able to find a supportive community of women in tech.
-Be able to ask questions.
-Be able to meet women that share the same interests.
-Be able to gain knowledge and tools needed to enter the world of coding.
+### Natalie's Stories
+As a web developer, I want to be able to connect with other female web developers in Brisbane and Australia.
+As a mid level web devleoper, I want to be able to share my experience as a female web developer. 
+As a web developer, I want to be able share and receive career, personal and technology realted advice.
 
 
 ## Planning

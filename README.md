@@ -2,16 +2,16 @@
 # <p align="center"> Part A
 </p>
 
---- 
+
 
 ## R1. Description of website
 
 ### Purpose
 
-The purpose of the website is to provide a place for women, and who identify as women, who are beginner programmers to:
+The purpose of the website is to provide a place for women, and who identify as women whom are beginner programmers to:
 
 - Connect with other women who are starting off in the tech industry.
-- Post and find git collaborations for practice. 
+- Post and find git collaborations. 
 - Find local meet ups.
 - Provide support and tools through forums.
 - Allow women to practice blog writing by posting tech blogs.
@@ -22,16 +22,16 @@ The purpose of the website is to provide a place for women, and who identify as 
 - Blog
 - User authentication
 - User profile
-
+- 
 ### Target Audience
-This website is catered for women whom are located in Australia. More specifically, women interested in technology and coding. Offering features for those whom are beginning their technlolgy careers, have established a career and/or looking to connect with likeminded women within the industry. 
+This website is catered for women whom are located in Australia. More specifically, women interested in technology and coding. Offering features for those whom are beginning their technlolgy careers, have established a career and/or looking to connect with likeminded women within the industry.
 
 ### Tech Stack
 
 - React
 - JavaScript
 - Ruby on Rails 
-- Ruby 
+- Ruby
 - Postgresql
 - [Amazon S3](https://aws.amazon.com/).
 - [Heroku](https://heroku.com/).
@@ -48,6 +48,38 @@ This website is catered for women whom are located in Australia. More specifical
 
 
 
+---
+
+
+
+
+# <p align="center"> User Stories
+</p>
+
+####  User: Amber
+<p align="center">
+  <img  src="./img/UserAvatar/2.png">
+</p>
+
+Amber single mother who is wanting to get into tech for a career change. She is currently working as a nurse full time. She is a self taught beginner coder. Amber has weekends and early mornings to practice. 
+
+As a beginner coder I want to:
+-  be able to socially connect with other beginner coders. 
+- I want to find collaborations with other beginner programmers so I can practice using source control. 
+-  I want to have the ability post blogs and have other users comment and give critque of my blog.
+- I want the ability to connect with already established women in tech for advice so I hear about multiple experiences for a better understanding about the industry.
+
+
+
+
+
+Melissa is a highschool student that likes video games and has an interest in tech but she sees that tech and video games are dominated by men. She would like to find a community where she feels safe and not afraid of asking questions.
+
+As a beginner coder I want to:
+Be able to find a supportive community of women in tech.
+Be able to ask questions.
+Be able to meet women that share the same interests.
+Be able to gain knowledge and tools needed to enter the world of coding.
 
 
 ## Planning

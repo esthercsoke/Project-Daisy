@@ -2,16 +2,16 @@
 # <p align="center"> Part A
 </p>
 
---- 
+
 
 ## R1. Description of website
 
 ### Purpose
 
-The purpose of the website is to provide a place for women, and who identify as women, who are beginner programmers to:
+The purpose of the website is to provide a place for women, and who identify as women whom are beginner programmers to:
 
 - Connect with other women who are starting off in the tech industry.
-- Post and find git collaborations for practice. 
+- Post and find git collaborations. 
 - Find local meet ups.
 - Provide support and tools through forums.
 - Allow women to practice blog writing by posting tech blogs.
@@ -22,16 +22,16 @@ The purpose of the website is to provide a place for women, and who identify as 
 - Blog
 - User authentication
 - User profile
-
+- 
 ### Target Audience
-This website is catered for women whom are located in Australia. More specifically, women interested in technology and coding. Offering features for those whom are beginning their technlolgy careers, have established a career and/or looking to connect with likeminded women within the industry. 
+This website is catered for women whom are located in Australia. More specifically, women interested in technology and coding. Offering features for those whom are beginning their technlolgy careers, have established a career and/or looking to connect with likeminded women within the industry.
 
 ### Tech Stack
 
 - React
 - JavaScript
 - Ruby on Rails 
-- Ruby 
+- Ruby
 - Postgresql
 - [Amazon S3](https://aws.amazon.com/).
 - [Heroku](https://heroku.com/).
@@ -46,12 +46,12 @@ This website is catered for women whom are located in Australia. More specifical
 
 ## R4. User Stories
 
-Natalie Broughton 
+User: Natalie
 
 ![Natalie Broughton](Img/4.png)
 
 ### Profile
-Residing in Brisbane, Natalie has been working in the technlogy industry for five years. Currently working as a mid level software developer, Natalie is wanting to connect with and provide mentorship for women in the industry.
+Residing in Brisbane, Natalie has been working in the technlogy industry for five years. Natalie studied computer science at university and is currently working as a mid level software developer. She is wanting to connect with and provide mentorship for women in the industry.
 
 ### Natalie's Stories
 As a web developer, I want to be able to connect with other female web developers in Brisbane and Australia.

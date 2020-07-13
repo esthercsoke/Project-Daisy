@@ -48,16 +48,16 @@ This website is catered for women whom are located in Australia. More specifical
 # <p align="center"> R4. User Stories
 </p>
 
-User: Natalie
+#### User: Natalie
 
 ![Natalie Broughton](Img/4.png)
 
-### Profile
 Residing in Brisbane, Natalie has been working in the technlogy industry for five years. Natalie studied computer science at university and is currently working as a mid level software developer. She is wanting to connect with and provide mentorship for women in the industry.
-### Natalie's Stories
-As a web developer, I want to be able to connect with other female web developers in Brisbane and Australia.
-As a mid level web devleoper, I want to be able to share my experience as a female web developer. 
-As a web developer, I want to be able share and receive career, personal and technology realted advice.
+
+As a web developer I want to:
+- Be able to connect with other female web developers in Brisbane and Australia.
+- Be able to share my experience as a female web developer. 
+- Be able share and receive career, personal and technology realted advice.
 
 
 

@@ -50,21 +50,19 @@ This website is catered for women whom are located in Australia. More specifical
 
 #### User: Natalie
 
-![Natalie Broughton](Img/4.png)
+![Natalie Broughton](./Img/UserAvatar/4.png)
 
 Residing in Brisbane, Natalie has been working in the technlogy industry for five years. Natalie studied computer science at university and is currently working as a mid level software developer. She is wanting to connect with and provide mentorship for women in the industry.
 
 As a web developer I want to:
-- Be able to connect with other female web developers in Brisbane and Australia.
+- Be able to connect with other female web developers in Brisbane and Australia
 - Be able to share my experience as a female web developer. 
 - Be able share and receive career, personal and technology realted advice.
 
 
 
 ####  User: Amber
-<p align="center">
-  <img  src="./img/UserAvatar/2.png">
-</p>
+![Amber](./Img/UserAvatar/2.png)
 
 Amber single mother who is wanting to get into tech for a career change. She is currently working as a nurse full time. She is a self taught beginner coder. Amber has weekends and early mornings to practice. 
 
@@ -76,9 +74,7 @@ As a beginner coder I want to:
 
 
 ####  User: Melissa
-<p align="center">
-  <img  src="">
-</p>
+![Melissa](./Img/UserAvatar/1.png)
 Melissa is a highschool student that likes video games and has an interest in tech but she sees that tech and video games are dominated by men. She would like to find a community where she feels safe and not afraid of asking questions.
 
 As a beginner coder I want to:

@@ -51,9 +51,12 @@ Natalie Broughton
 ![Natalie Broughton](Img/4.png)
 
 ### Profile
-Residing in Brisbane, Natalie has been working in the technlogy industry for five years. Currently working as a mid level software developer, Natalie is wanting to connect with more women in the industry. 
+Residing in Brisbane, Natalie has been working in the technlogy industry for five years. Currently working as a mid level software developer, Natalie is wanting to connect with and provide mentorship for women in the industry.
 
-
+### Natalie's Stories
+As a web developer, I want to be able to connect with other female web developers in Brisbane and Australia.
+As a mid level web devleoper, I want to be able to share my experience as a female web developer. 
+As a web developer, I want to be able share and receive career, personal and technology realted advice.
 
 
 ## Planning

@@ -46,6 +46,12 @@ This website is catered for women whom are located in Australia. More specifical
 
 ## R4. User Stories
 
+Natalie Broughton 
+
+![Natalie Broughton](Img/4.png)
+
+### Profile
+Residing in Brisbane, Natalie has been working in the technlogy industry for five years. Currently working as a mid level software developer, Natalie is wanting to connect with more women in the industry. 
 
 
 

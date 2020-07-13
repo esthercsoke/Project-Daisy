@@ -75,7 +75,6 @@ As a beginner coder I want to:
 <p align="center">
   <img  src="">
 </p>
-
 Melissa is a highschool student that likes video games and has an interest in tech but she sees that tech and video games are dominated by men. She would like to find a community where she feels safe and not afraid of asking questions.
 
 As a beginner coder I want to:

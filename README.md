@@ -2,10 +2,13 @@
 # <p align="center"> Part A
 </p>
 
- <p align="center"> A project by Esther Csoke, Nikki Waelkens and Rose Hernandez.
+ <p align="center"> 
+ A project by Esther Csoke, Nikki Waelkens and Rose Hernandez.
 </p>
 
-![girl at computer](./Img/girl-at-computer.png)
+ <p align="center"> 
+  <img width="200" src="./Img/girl-at-computer.png">
+</p>
 
 
 
@@ -43,7 +46,6 @@ This website is catered for women whom are located in Australia. More specifical
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html).
 - [Git](https://github.com/).
 - [PostgreSQL](https://www.postgresql.org/).
-
 
 
 --- 
@@ -84,6 +86,7 @@ As a beginner coder I want to:
 - I want to have the ability to post my own git colloration listing so that I may find other women to complete mini projects with.
 -  I want to have the ability post blogs and have other users comment and give critque of my blog so that I can practice my blog writing skills.
 
+
 ####  User: Melissa
 
 ![Melissa](./Img/UserAvatar/1.png)
@@ -101,4 +104,17 @@ As a beginner coder I want to:
 
 ## Planning
 
+
+#### Day 1
 Our team used a Trello Board to provide a clear outline of what needs to be done and when by. We allowed some extra time between tasks to allow for any issues that could possibly rise. 
+
+#### Day 2
+
+
+#### Day 3
+
+
+#### Day 4
+
+
+#### Day 5

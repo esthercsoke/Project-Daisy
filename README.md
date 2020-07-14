@@ -2,9 +2,10 @@
 # <p align="center"> Part A
 </p>
 
-
  <p align="center"> A project by Esther Csoke, Nikki Waelkens and Rose Hernandez.
 </p>
+
+![Amber](./Img/girl-at-computer.png)
 
 
 
@@ -26,21 +27,25 @@ The purpose of the website is to provide a place for women, and who identify as 
 - Blog
 - User authentication
 - User profile
-- 
+- Project Collaborations
+
 ### Target Audience
 This website is catered for women whom are located in Australia. More specifically, women interested in technology and coding. Offering features for those whom are beginning their technlolgy careers, have established a career and/or looking to connect with likeminded women within the industry.
 
 ### Tech Stack
 
-- React
-- JavaScript
-- Ruby on Rails 
-- Ruby
-- Postgresql
+- [React](https://reactjs.org/).
+- [JavaScript](https://www.javascript.com/).
+- [Ruby on Rails](https://rubyonrails.org/).
+- [Ruby](https://www.ruby-lang.org/en/).
 - [Amazon S3](https://aws.amazon.com/).
 - [Heroku](https://heroku.com/).
-- CSS
-- Git
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html).
+- [Git](https://github.com/).
+- [PostgreSQL](https://www.postgresql.org/).
+
+
+
 
 --- 
 
@@ -48,37 +53,44 @@ This website is catered for women whom are located in Australia. More specifical
 
 ## R3. Application Architecture Diagram
 
-## R4. User Stories
 
-
-
----
-
-
-
-
-# <p align="center"> User Stories
+# <p align="center"> R4. User Stories
 </p>
+
+#### User: Natalie
+
+![Natalie Broughton](./Img/UserAvatar/4.png)
+
+Residing in Brisbane, Natalie has been working in the technlogy industry for five years. Natalie studied computer science at university and is currently working as a mid level software developer. She is wanting to connect with and provide mentorship for women in the industry.
+
+As a web developer I want to:
+- Be able to connect with other female web developers in Brisbane and Australia
+- Be able to share my experience as a female web developer. 
+- Be able share and receive career, personal and technology realted advice.
+
+
 
 ####  User: Amber
-<p align="center">
-  <img  src="./img/UserAvatar/2.png">
-</p>
 
-Amber single mother who is wanting to get into tech for a career change. She is currently working as a nurse full time. She is a self taught beginner coder. Amber has weekends and early mornings to practice. 
+![Amber](./Img/UserAvatar/8.png)
+
+Amber, a 35 year old mother of two who is wanting to get into tech for a career change. She is currently working as a nurse full time. She is a self taught beginner coder. Amber has weekends and afternoons to practice, as her husband is fully supportive of her career change. 
+
+<i>I am wanting to establish myself in the tech industry by meeting other women who are passionate about programming </i>
+
 
 As a beginner coder I want to:
--  be able to socially connect with other beginner coders. 
-- I want to find collaborations with other beginner programmers so I can practice using source control. 
--  I want to have the ability post blogs and have other users comment and give critque of my blog.
-- I want the ability to connect with already established women in tech for advice so I hear about multiple experiences for a better understanding about the industry.
-
+-  be able to socially connect with other beginner coders while feeling assured my data and personal information is protected. So that I can make personal connections with women in Australia.
+- I want to find collaborations with other beginner programmers so I can practice using source control and working as a team.
+- I want to have the ability to post my own git colloration listing so that I may find other women to complete mini projects with.
+-  I want to have the ability post blogs and have other users comment and give critque of my blog so that I can practice my blog writing skills.
+- I want to be 
 
 
 ####  User: Melissa
-<p align="center">
-  <img  src="">
-</p>
+
+![Melissa](./Img/UserAvatar/1.png)
+
 Melissa is a highschool student that likes video games and has an interest in tech but she sees that tech and video games are dominated by men. She would like to find a community where she feels safe and not afraid of asking questions.
 
 As a beginner coder I want to:
@@ -86,6 +98,7 @@ Be able to find a supportive community of women in tech.
 Be able to ask questions.
 Be able to meet women that share the same interests.
 Be able to gain knowledge and tools needed to enter the world of coding.
+
 
 
 ## Planning

@@ -105,11 +105,20 @@ As a beginner coder I want to:
 ## Planning
 
 
-#### Day 1
-Our team used a Trello Board to provide a clear outline of what needs to be done and when by. We allowed some extra time between tasks to allow for any issues that could possibly rise. 
+#### Day 1 
+###### 13/07/2020
+
+The team first created a Trello Board to provide a clear outline of what needed to be done and when by. We allowed some extra time between tasks to allow for any issues that could possibly rise. 
+
+  <img width="400" src="./Img/Day1Planning/Created-tasks.png">
+
+We decided to begin with first writing the decription of the website. 
+
+  <img width="400" src="./Img/Day1Planning/description-of-website.png">
 
 #### Day 2
 
+We began the day 
 
 #### Day 3
 

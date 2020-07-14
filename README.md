@@ -88,6 +88,12 @@ As a beginner coder I want to:
 - I want to have the ability to post my own git colloration listing so that I may find other women to complete mini projects with.
 -  I want to have the ability post blogs and have other users comment and give critque of my blog so that I can practice my blog writing skills.
 
+#### User: Sonya
+
+![Sonya](./Img/UserAvatar/6.png)
+
+
+
 
 ####  User: Melissa
 

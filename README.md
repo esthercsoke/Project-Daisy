@@ -62,12 +62,14 @@ This website is catered for women whom are located in Australia. More specifical
 
 ![Natalie Broughton](./Img/UserAvatar/4.png)
 
-Residing in Brisbane, Natalie has been working in the technlogy industry for five years. Natalie studied computer science at university and is currently working as a mid level software developer. She is wanting to connect with and provide mentorship for women in the industry.
+Residing in Brisbane, Natalie has been working in the technlogy industry for five years. Currently 27 years of age, Natalie studied computer science at university and is currently working as a mid level software developer. She is wanting to connect with other females in the tehconology industry, at all stages of their careers, as she finds the industry male dominated. She wants to provide and receive mentoriship, advice and build her skills.
+
+<i>I want to continue to build my career in technology by building my network and working on my skills through new collaborations </i>
 
 As a web developer I want to:
-- Be able to connect with other female web developers in Brisbane and Australia
-- Be able to share my experience as a female web developer. 
-- Be able share and receive career, personal and technology realted advice.
+- Be able to connect with other female web developers in Brisbane and Australia to build my professional network.
+- Be able to share my experience as a female web developer in a safe and non judgemental environment.
+- Be able share and receive career, personal and technology realted advice as I want to progress in my career and help other women in the industry.
 
 
 

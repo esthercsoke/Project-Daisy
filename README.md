@@ -24,13 +24,46 @@ The purpose of the website is to provide a place for women, and who identify as 
 - Provide support and tools through forums.
 - Allow women to practice blog writing by posting tech blogs.
  
+
 ### Functionality/ Features
 
-- Forums
-- Blog
-- User authentication
-- User profile
-- Project Collaborations
+
+The features of the website are aimed to provide a place for users to safetly interact with one another
+
+<b> Forums </b>
+  * Creation and commenting on forums .
+  * Contains a full selection of forum categories that include:
+    * Forums by programming language.
+    * Career progression/work advice.
+    * Getting to know/'Introduce Yourself' forum.
+
+<b>Blogs</b>
+  * Writing and submiting a blog to be made public.
+  * Commeting on other user's blogs.
+
+<b>User profile management</b>
+  * Creating, editing, and deleting an account.
+  * Login with a username.
+  * User authentication.
+  * Modifying a skill table for other users to see.
+  * Have the ability to display publicly the meet ups they are attending.
+  * Display git projects and blogs on their profile.
+
+<b>Meet up Search</b>
+  * Search for local Meet ups by State using the [Meetup](https://www.meetup.com/meetup_api/) API.
+  * Save these meetups on personal profile.
+
+<b>Git Project Collaborations</b>
+  * Create a project listing to find other women developers to collaborate with.
+  * Find and join git collaboration projects.
+  
+
+<b>Contact Staff</b>
+  * Have the ability to email staff on: 
+    * Bullying/Harassment.
+    * Technical issues on the website.
+
+    
 
 ### Target Audience
 This website is catered for women whom are located in Australia. More specifically, women interested in technology and coding. Offering features for those whom are beginning their technlolgy careers, have established a career and/or looking to connect with likeminded women within the industry.
@@ -124,7 +157,6 @@ As a beginner coder I want to:
 
 
 ## Planning
-
 
 #### Day 1 
 ###### 13/07/2020

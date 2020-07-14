@@ -86,7 +86,7 @@ As a beginner coder I want to:
 -  be able to socially connect with other beginner coders while feeling assured my data and personal information is protected. So that I can make personal connections with women in Australia.
 - I want to find collaborations with other beginner programmers so I can practice using source control and working as a team.
 - I want to have the ability to post my own git colloration listing so that I may find other women to complete mini projects with.
--  I want to have the ability post blogs and have other users comment and give critque of my blog so that I can practice my blog writing skills.
+-  I want to have the ability post blogs and have other users comment and give critique of my blog so that I can practice my blog writing skills.
 
 #### User: Sonya
 
@@ -99,7 +99,9 @@ As a beginner coder I want to:
 
 ![Melissa](./Img/UserAvatar/1.png)
 
-Melissa is a highschool student that likes video games and has an interest in tech but she sees that tech and video games are dominated by men. She would like to find a community where she feels safe and not afraid of asking questions.
+Melissa, a 14 year old highschool student who likes video games and has an interest in tech but she sees that tech and video games are dominated by men. She would like to learn how to code but does not know where to start.
+
+<i>I am wanting to find a community where I feel safe and not afraid of asking questions.</i>
 
 As a beginner coder I want to:
 - Be able to find a supportive community of women in tech.
@@ -113,11 +115,20 @@ As a beginner coder I want to:
 ## Planning
 
 
-#### Day 1
-Our team used a Trello Board to provide a clear outline of what needs to be done and when by. We allowed some extra time between tasks to allow for any issues that could possibly rise. 
+#### Day 1 
+###### 13/07/2020
+
+The team first created a Trello Board to provide a clear outline of what needed to be done and when by. We allowed some extra time between tasks to allow for any issues that could possibly rise. 
+
+  <img width="400" src="./Img/Day1Planning/Created-tasks.png">
+
+We decided to begin with first writing the decription of the website. 
+
+  <img width="400" src="./Img/Day1Planning/description-of-website.png">
 
 #### Day 2
 
+We began the day 
 
 #### Day 3
 

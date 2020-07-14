@@ -62,12 +62,14 @@ This website is catered for women whom are located in Australia. More specifical
 
 ![Natalie Broughton](./Img/UserAvatar/4.png)
 
-Residing in Brisbane, Natalie has been working in the technlogy industry for five years. Natalie studied computer science at university and is currently working as a mid level software developer. She is wanting to connect with and provide mentorship for women in the industry.
+Residing in Brisbane, Natalie has been working in the technlogy industry for five years. Currently 27 years of age, Natalie studied computer science at university and is currently working as a mid level software developer. She is wanting to connect with other females in the tehconology industry, at all stages of their careers, as she finds the industry male dominated. She wants to provide and receive mentoriship, advice and build her skills.
+
+<i>I want to continue to build my career in technology by building my network and working on my skills through new collaborations </i>
 
 As a web developer I want to:
-- Be able to connect with other female web developers in Brisbane and Australia
-- Be able to share my experience as a female web developer. 
-- Be able share and receive career, personal and technology realted advice.
+- Be able to connect with other female web developers in Brisbane and Australia to build my professional network.
+- Be able to share my experience as a female web developer in a safe and non judgemental environment.
+- Be able share and receive career, personal and technology realted advice as I want to progress in my career and help other women in the industry.
 
 
 
@@ -85,6 +87,23 @@ As a beginner coder I want to:
 - I want to find collaborations with other beginner programmers so I can practice using source control and working as a team.
 - I want to have the ability to post my own git colloration listing so that I may find other women to complete mini projects with.
 -  I want to have the ability post blogs and have other users comment and give critique of my blog so that I can practice my blog writing skills.
+
+
+
+#### User: Sonya
+
+![Sonya](./Img/UserAvatar/6.png)
+
+Sonya is in her early twenties currently working irregular hours in the hospitality industry. She loves to code as a hobby and is undecided regarding whether to make the transition into technology. Sonya is a transgender woman and she would like to connect with people in a safe, non-judgemental environment with like minded people. She would like to build on her current skills and to gain more perspective on whether the technology industry is worth making the career change.
+
+<i>I am wanting to connect with other women and transgender women whom enjoy coding in a non-judgemental and safe environment.</i>
+
+As a coding enthusiast I want to:
+- Be able to connect with all kinds of likeminded women whom are ineterested in technology.
+- Be able to report if someone that makes me feel unsafe or judged so I can can continue using the platform.
+- Be able to reach out to other transgender women to network and connect with socially.
+- Be able to gain an insight of the techonology industry to help me decide if a career change is worth making.
+
 
 
 ####  User: Melissa

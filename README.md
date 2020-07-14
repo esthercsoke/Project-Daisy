@@ -3,6 +3,10 @@
 </p>
 
 
+ <p align="center"> A project by Esther Csoke, Nikki Waelkens and Rose Hernandez.
+</p>
+
+
 
 ## R1. Description of website
 

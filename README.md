@@ -81,10 +81,10 @@ As a beginner coder I want to:
 Melissa is a highschool student that likes video games and has an interest in tech but she sees that tech and video games are dominated by men. She would like to find a community where she feels safe and not afraid of asking questions.
 
 As a beginner coder I want to:
-Be able to find a supportive community of women in tech.
-Be able to ask questions.
-Be able to meet women that share the same interests.
-Be able to gain knowledge and tools needed to enter the world of coding.
+- Be able to find a supportive community of women in tech.
+- Be able to ask questions.
+- Be able to meet women that share the same interests.
+- Be able to gain knowledge and tools needed to enter the world of coding.
 
 
 

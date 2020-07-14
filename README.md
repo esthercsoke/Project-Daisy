@@ -112,13 +112,14 @@ The team first created a Trello Board to provide a clear outline of what needed 
 
   <img width="400" src="./Img/Day1Planning/Created-tasks.png">
 
-We decided to begin with first writing the decription of the website. 
+We decided to begin with first writing the decription of the website, as this could give us a better understanding of how the website would run overall. 
 
   <img width="400" src="./Img/Day1Planning/description-of-website.png">
 
 #### Day 2
+###### 14/07/2020
 
-We began the day 
+We began the day off with a stand-up. We decided to finish off the web and mobile wireframes, as we previously decided them to be finished today. As we were using figma, it allowed us to all work together. We assigned each team member to either work on the web components or the mobile components, in order to make sure tasks were clear. We additionally decided on finishing up the user stories. We were all allocated to make individual user stories. 
 
 #### Day 3
 

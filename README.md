@@ -86,7 +86,7 @@ This website is catered for women whom are located in Australia. More specifical
 
 ## R2. Dataflow Diagram
 
-Below we have included a level one dataflow diagram which outlines the flow of information through out our application. It represents different processes, requests and how they are handled by our application components to deliver a repsonse to the user.
+Below we have included a level one dataflow diagram which outlines the flow of information throughout our application. It represents different processes, requests and how they are handled by our application components to deliver a repsonse to the user.
 
 <p align="center"> 
   <img  src="./Img/DataflowDiagram.png">
@@ -94,6 +94,10 @@ Below we have included a level one dataflow diagram which outlines the flow of i
 
 
 ## R3. Application Architecture Diagram
+
+Below we created an architecture diagram which outlines our initial application structure and tech stack.
+
+It outlines how user requests are handled between the front-end, back-end and database. Once a request is made on the front-end, a request is sent to the back-end of the application, which is handled by the controller layer of the Ruby on Rails framework. The 'controller' layer interacts with the 'model' layer which handles database requests. Data is then passed back to the controller and on to the front-end which is delivered to the user as a response.
 
 
 # <p align="center"> R4. User Stories

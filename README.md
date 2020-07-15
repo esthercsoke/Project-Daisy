@@ -88,6 +88,10 @@ This website is catered for women whom are located in Australia. More specifical
 
 Below we have included a level one dataflow diagram which outlines the flow of information through out our application. It represents different processes, requests and how they are handled by our application components to deliver a repsonse to the user.
 
+<p align="center"> 
+  <img  src="./Img/DataflowDiagram.png">
+</p>
+
 
 ## R3. Application Architecture Diagram
 

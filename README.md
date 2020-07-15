@@ -66,6 +66,7 @@ The features of the website are aimed to provide a place for users to safetly in
     
 
 ### Target Audience
+
 This website is catered for women whom are located in Australia. More specifically, women interested in technology and coding. Offering features for those whom are beginning their technlolgy careers, have established a career and/or looking to connect with likeminded women within the industry.
 
 ### Tech Stack
@@ -84,6 +85,9 @@ This website is catered for women whom are located in Australia. More specifical
 --- 
 
 ## R2. Dataflow Diagram
+
+Below we have included a level one dataflow diagram which outlines the flow of information through out our application. It represents different processes, requests and how they are handled by our application components to deliver a repsonse to the user.
+
 
 ## R3. Application Architecture Diagram
 

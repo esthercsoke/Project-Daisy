@@ -187,7 +187,9 @@ We decided to begin with first writing the decription of the website, as this co
 We began the day off with a stand-up. We decided to finish off the web and mobile wireframes, as we previously decided them to be finished today. As we were using figma, it allowed us to all work together. We assigned each team member to either work on the web components or the mobile components, in order to make sure tasks were clear. We additionally decided on finishing up the user stories. We were all allocated to make individual user stories. 
 
 #### Day 3
+###### 14/07/2020
 
+Following our Trello board, today we worked on our Dataflow and Architecture diagram. We used Lucidchart for both of them. We decided it was best to work on them together rather than separately. We worked on the Dataflow diagram first and after lunch we worked on the Architecture diagram, to make sure everything was right we decided to ask Harry for some feedback. We finished both our diagrams just before the class ended.
 
 #### Day 4
 ###### 16/07/2020

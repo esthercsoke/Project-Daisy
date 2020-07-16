@@ -173,64 +173,48 @@ As a beginner coder I want to:
  
  The wireframes below were created using Figma.
 
-<p align="center"> 
+ 
 
-  <img src="Img/Wireframes/Homepage.png" alt="homepage" width="450"/>
-
-</p>
-
-<p align="center"> 
-  <img src="Img/Wireframes/meetupSearch.png" width="500">
-</p>
+![homepage](./Img/Wireframes/Homepage.png)
 
 
-<p align="center"> 
-  <img src="Img/Wireframes/signup.png" width="500">
-</p>
-
-<p align="center"> 
-  <img src="Img/Wireframes/contactPage.png" width="500">
-</p>
+![meetupsearch](./Img/Wireframes/meetupSearch.png)
 
 
-<p align="center"> 
-  <img src="Img/Wireframes/gitCollabs.png" width="500">
-</p>
+![signup](./Img/Wireframes/signup.png)
 
-<p align="center"> 
-  <img src="Img/Wireframes/gitcollabListings.png" width="500">
-</p>
 
-<p align="center"> 
-  <img src="Img/Wireframes/BlogMenu.png" width="500">
-</p>
+![contact page](./Img/Wireframes/contactPage.png)
 
-<p align="center"> 
-  <img src="Img/Wireframes/blogPost.png" width="500">
-</p>
 
-<p align="center"> 
-  <img src="Img/Wireframes/createABlog.png" width="500">
-</p>
+![git collabs](./Img/Wireframes/gitCollabs.png)
 
-<p align="center"> 
-  <img src="Img/Wireframes/forum menu.png" width="500" >
-</p>
 
-<p align="center"> 
-  <img src="Img/Wireframes/forumForLanguage.png" width="500">
-</p>
+![git listings](./Img/Wireframes/gitcollabListings.png)
 
-<p align="center"> 
-  <img src="Img/Wireframes/ForumForTopic.png" width="500">
-</p>
 
-  <img src="Img/Wireframes/Profile.png" width="500">
-</p>
+![blog menu](./Img/Wireframes/BlogMenu.png)
 
-<p align="center"> 
-  <img src="Img/Wireframes/private message.png" width="500">
-</p>
+![blogpost](./Img/Wireframes/blogPost.png)
+
+
+![create a blog](./Img/Wireframes/createABlog.png)
+
+
+![forum menu](./Img/Wireframes/forummenu.png)
+
+
+![forum for language](./Img/Wireframes/forumForLanguage.png)
+
+
+![forum for topic](./Img/Wireframes/ForumForTopic.png)
+
+
+![profile page](./Img/Wireframes/Profile.png)
+
+![profile page](./Img/Wireframes/privatemessage.png)
+
+
 
 
 

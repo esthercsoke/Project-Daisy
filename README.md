@@ -190,6 +190,8 @@ We began the day off with a stand-up. We decided to finish off the web and mobil
 
 
 #### Day 4
+###### 16/07/2020
 
+We had an stand-up today, before having the meeting with Mike we discussed what things we could ask Mike. After working together on the feedback Mike gave us about our dataflow diagram, we tried to find a name for our project as we still can’t decide on a name, we ended up with a short list of names but we decided that we need more time to choose the right name. We work together on the presentation using Google Slides and finished it before lunch as planned.
 
 #### Day 5

@@ -169,9 +169,9 @@ As a beginner coder I want to:
 - Be able to meet women that share the same interests.
 - Be able to gain knowledge and tools needed to enter the world of coding.
 
-## Wireframes
+## WireFrames
  
- The wireframes below were created using Figma.
+ The WireFrames below were created using Figma.
 
  
 
@@ -201,18 +201,18 @@ As a beginner coder I want to:
 ![create a blog](./Img/WireFrames/createABlog.png)
 
 
-![forum menu](./Img/Wireframes/forummenu.png)
+![forum menu](./Img/WireFrames/forummenu.png)
 
 
-![forum for language](./Img/Wireframes/forumForLanguage.png)
+![forum for language](./Img/WireFrames/forumForLanguage.png)
 
 
-![forum for topic](./Img/Wireframes/ForumForTopic.png)
+![forum for topic](./Img/WireFrames/ForumForTopic.png)
 
 
-![profile page](./Img/Wireframes/Profile.png)
+![profile page](./Img/WireFrames/Profile.png)
 
-![profile page](./Img/Wireframes/privatemessage.png)
+![profile page](./Img/WireFrames/privatemessage.png)
 
 
 
@@ -225,7 +225,7 @@ As a beginner coder I want to:
 
 ## Planning
 
-Our team decided to use the Kanban planning methodology (an agile approach) with the use of a Trello board. The method allowed us to manage our work to increase productivity and flexibility, improving our workflow and quality. Our planning developed in having team standups to talk about the project. The team opted for a simple kanban workflow columns of 'To Do', 'Working On' and 'Completed', as the group collectively decided we didn't require any additional workflows for the documentation. All documentation that was to be completed began in the 'To Do' section of the Trello board. While we set days for each item's due date, we allowed for flexibility and would discuss the 'Working On' column for the day. Once a task was done, we moved it to the Completed column. 
+Our team decided to use the Kanban planning methodology (an agile approach) with the use of a Trello board. The Kanban method allowed us to manage our work to increase productivity and flexibility, improving our workflow and quality. Our planning developed in having team standups to talk about the project. The team opted for a simple kanban workflow columns of 'To Do', 'Working On' and 'Completed', as the group collectively decided we didn't require any additional workflows for the documentation. All documentation that was to be completed began in the 'To Do' section of the Trello board. While we set days for each item's due date, we allowed for flexibility and would discuss the 'Working On' column for the day. Once a task was done, we moved it to the Completed column. 
 
 #### Day 1 
 ###### 13/07/2020
@@ -239,7 +239,9 @@ We decided to begin with first writing the decription of the website, as this co
 #### Day 2
 ###### 14/07/2020
 
-We began the day off with a stand-up. We decided to finish off the web and mobile wireframes, as we previously decided them to be finished today. As we were using figma, it allowed us to all work together. We assigned each team member to either work on the web components or the mobile components, in order to make sure tasks were clear. We additionally decided on finishing up the user stories. We were all allocated to make individual user stories. 
+<img width="400" src="./Img/Day2Planning/day2.png">
+
+We began the day off with a stand-up. We decided to finish off the web and mobile WireFrames, as we previously decided them to be finished today. As we were using figma, it allowed us to all work together. We assigned each team member to either work on the web components or the mobile components, in order to make sure tasks were clear. We additionally decided on finishing up the user stories. We were all allocated to make individual user stories. 
 
 #### Day 3
 ###### 15/07/2020

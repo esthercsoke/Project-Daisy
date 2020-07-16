@@ -137,6 +137,7 @@ As a beginner coder I want to:
 
 
 
+
 #### User: Sonya
 
 ![Sonya](./Img/UserAvatar/6.png)
@@ -153,6 +154,7 @@ As a coding enthusiast I want to:
 
 
 
+
 ####  User: Melissa
 
 ![Melissa](./Img/UserAvatar/1.png)
@@ -166,6 +168,72 @@ As a beginner coder I want to:
 - Be able to ask questions.
 - Be able to meet women that share the same interests.
 - Be able to gain knowledge and tools needed to enter the world of coding.
+
+## Wireframes
+ 
+ The wireframes below were created using Figma.
+
+<p align="center"> 
+  <img width="800" src="./Img/Wireframes/Homepage.png">
+</p>
+
+<p align="center"> 
+  <img width="800" src="./Img/Wireframes/meetupSearch.png">
+</p>
+
+
+<p align="center"> 
+  <img width="800" src="./Img/Wireframes/signup.png">
+</p>
+
+<p align="center"> 
+  <img width="800" src="./Img/Wireframes/contactPage.png">
+</p>
+
+
+<p align="center"> 
+  <img width="800" src="./Img/Wireframes/gitCollabs.png">
+</p>
+
+<p align="center"> 
+  <img width="800" src="./Img/Wireframes/gitcollabListings.png">
+</p>
+
+<p align="center"> 
+  <img width="800" src="./Img/Wireframes/BlogMenu.png">
+</p>
+
+<p align="center"> 
+  <img width="800" src="./Img/Wireframes/blogPost.png">
+</p>
+
+<p align="center"> 
+  <img width="800" src="./Img/Wireframes/createABlog.png">
+</p>
+
+<p align="center"> 
+  <img width="800" src="./Img/Wireframes/forum menu.png">
+</p>
+
+<p align="center"> 
+  <img width="800" src="./Img/Wireframes/forumForLanguage.png">
+</p>
+
+<p align="center"> 
+  <img width="800" src="./Img/Wireframes/ForumForTopic.png">
+</p>
+
+<p align="center"> 
+  <img width="800" src="./Img/Wireframes/Profile.png">
+</p>
+
+<p align="center"> 
+  <img width="800" src="./Img/Wireframes/private message.png">
+</p>
+
+
+
+
 
 
 

@@ -225,10 +225,10 @@ As a beginner coder I want to:
 
 ## Planning
 
+Our team decided to use the Kanban planning methodology (an agile approach) with the use of a Trello board. The method allowed us to manage our work to increase productivity and flexibility, improving our workflow and quality. Our planning developed in having team standups to talk about the project. The team opted for a simple kanban workflow columns of 'To Do', 'Working On' and 'Completed', as the group collectively decided we didn't require any additional workflows for the documentation. All documentation that was to be completed began in the 'To Do' section of the Trello board. While we set days for each item's due date, we allowed for flexibility and would discuss the 'Working On' column for the day. Once a task was done, we moved it to the Completed column. 
+
 #### Day 1 
 ###### 13/07/2020
-
-The team first created a Trello Board to provide a clear outline of what needed to be done and when by. We allowed some extra time between tasks to allow for any issues that could possibly rise. 
 
   <img width="400" src="./Img/Day1Planning/Created-tasks.png">
 

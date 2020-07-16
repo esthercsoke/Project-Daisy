@@ -261,6 +261,8 @@ We began the day off with a stand-up. We decided to finish off the web and mobil
 
 Following our Trello board, today we worked on our Dataflow and Architecture diagram. We used Lucidchart for both of them. We decided it was best to work on them together rather than separately. We worked on the Dataflow diagram first and after lunch we worked on the Architecture diagram, to make sure everything was right we decided to ask Harry for some feedback. We finished both our diagrams just before the class ended.
 
+  <img width="400" src="./Img/Day3Planning/trello_715.png">
+
 #### Day 4
 ###### 16/07/2020
 

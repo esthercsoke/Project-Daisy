@@ -2,7 +2,7 @@
 # <p align="center"> Part A
 
 <p align="center"> 
-  <img width="100" src="./Img/Headings/daisy.png">
+  <img width="100" src="./Img/daisy.png">
 </p>
 
 </p>

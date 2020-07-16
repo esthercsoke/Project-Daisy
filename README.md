@@ -174,61 +174,61 @@ As a beginner coder I want to:
  The wireframes below were created using Figma.
 
 <p align="center"> 
-  <img width="800" src="./Img/Wireframes/Homepage.png">
+  <img src="./Img/Wireframes/Homepage.png" width="800">
 </p>
 
 <p align="center"> 
-  <img width="800" src="./Img/Wireframes/meetupSearch.png">
-</p>
-
-
-<p align="center"> 
-  <img width="800" src="./Img/Wireframes/signup.png">
-</p>
-
-<p align="center"> 
-  <img width="800" src="./Img/Wireframes/contactPage.png">
+  <img src="./Img/Wireframes/meetupSearch.png" width="800">
 </p>
 
 
 <p align="center"> 
-  <img width="800" src="./Img/Wireframes/gitCollabs.png">
+  <img src="./Img/Wireframes/signup.png" width="800">
 </p>
 
 <p align="center"> 
-  <img width="800" src="./Img/Wireframes/gitcollabListings.png">
+  <img src="./Img/Wireframes/contactPage.png" width="800">
+</p>
+
+
+<p align="center"> 
+  <img src="./Img/Wireframes/gitCollabs.png" width="800">
 </p>
 
 <p align="center"> 
-  <img width="800" src="./Img/Wireframes/BlogMenu.png">
+  <img src="./Img/Wireframes/gitcollabListings.png" width="800">
 </p>
 
 <p align="center"> 
-  <img width="800" src="./Img/Wireframes/blogPost.png">
+  <img src="./Img/Wireframes/BlogMenu.png" width="800">
 </p>
 
 <p align="center"> 
-  <img width="800" src="./Img/Wireframes/createABlog.png">
+  <img src="./Img/Wireframes/blogPost.png" width="800">
 </p>
 
 <p align="center"> 
-  <img width="800" src="./Img/Wireframes/forum menu.png">
+  <img src="./Img/Wireframes/createABlog.png" width="800">
 </p>
 
 <p align="center"> 
-  <img width="800" src="./Img/Wireframes/forumForLanguage.png">
+  <img src="./Img/Wireframes/forum menu.png" width="800" >
 </p>
 
 <p align="center"> 
-  <img width="800" src="./Img/Wireframes/ForumForTopic.png">
+  <img src="./Img/Wireframes/forumForLanguage.png" width="800">
 </p>
 
 <p align="center"> 
-  <img width="800" src="./Img/Wireframes/Profile.png">
+  <img src="./Img/Wireframes/ForumForTopic.png" width="800">
 </p>
 
 <p align="center"> 
-  <img width="800" src="./Img/Wireframes/private message.png">
+  <img src="./Img/Wireframes/Profile.png" width="800">
+</p>
+
+<p align="center"> 
+  <img src="./Img/Wireframes/private message.png" width="800">
 </p>
 
 

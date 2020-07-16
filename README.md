@@ -149,7 +149,6 @@ As a beginner coder I want to:
 </p>
 
 
-
 <p align="center"> 
   <img width="800" src="./Img/Wireframes/signup.png">
 </p>

@@ -175,30 +175,30 @@ As a beginner coder I want to:
 
  
 
-![homepage](./Img/Wireframes/Homepage.png)
+![homepage](./Img/WireFrames/Homepage.png)
 
 
-![meetupsearch](./Img/Wireframes/meetupSearch.png)
+![meetupsearch](./Img/WireFrames/meetupSearch.png)
 
 
-![signup](./Img/Wireframes/signup.png)
+![signup](./Img/WireFrames/signup.png)
 
 
-![contact page](./Img/Wireframes/contactPage.png)
+![contact page](./Img/WireFrames/contactPage.png)
 
 
-![git collabs](./Img/Wireframes/gitCollabs.png)
+![git collabs](./Img/WireFrames/gitCollabs.png)
 
 
-![git listings](./Img/Wireframes/gitcollabListings.png)
+![git listings](./Img/WireFrames/gitcollabListings.png)
 
 
-![blog menu](./Img/Wireframes/BlogMenu.png)
+![blog menu](./Img/WireFrames/BlogMenu.png)
 
-![blogpost](./Img/Wireframes/blogPost.png)
+![blogpost](./Img/WireFrames/blogPost.png)
 
 
-![create a blog](./Img/Wireframes/createABlog.png)
+![create a blog](./Img/WireFrames/createABlog.png)
 
 
 ![forum menu](./Img/Wireframes/forummenu.png)

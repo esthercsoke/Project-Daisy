@@ -1,18 +1,23 @@
 
 # <p align="center"> Part A
+
+<p align="center"> 
+  <img width="100" src="./Img/Headings/daisy.png">
 </p>
+
+</p>
+
+
 
  <p align="center"> 
  A project by Esther Csoke, Nikki Waelkens and Rose Hernandez.
 </p>
 
- <p align="center"> 
-  <img width="200" src="./Img/girl-at-computer.png">
-</p>
 
 
 
-## R1. Description of website
+
+## R1. Description of the Website
 
 ### Purpose
 
@@ -109,9 +114,9 @@ It outlines how user requests are handled between the front-end, back-end and da
 # <p align="center"> R4. User Stories
 </p>
 
-#### User: Natalie
+#### User 1:
 
-![Natalie Broughton](./Img/UserAvatar/4.png)
+![Natalie Broughton](./Img/UserAvatar/nat.png)
 
 Residing in Brisbane, Natalie has been working in the technlogy industry for five years. Currently 27 years of age, Natalie studied computer science at university and is currently working as a mid level software developer. She is wanting to connect with other females in the tehconology industry, at all stages of their careers, as she finds the industry male dominated. She wants to provide and receive mentoriship, advice and build her skills.
 
@@ -124,9 +129,9 @@ As a web developer I want to:
 
 
 
-####  User: Amber
+####  User 2:
 
-![Amber](./Img/UserAvatar/8.png)
+![Amber](./Img/UserAvatar/amber.png)
 
 Amber, a 35 year old mother of two who is wanting to get into tech for a career change. She is currently working as a nurse full time. She is a self taught beginner coder. Amber has weekends and afternoons to practice, as her husband is fully supportive of her career change. 
 
@@ -142,9 +147,9 @@ As a beginner coder I want to:
 
 
 
-#### User: Sonya
+#### User: 3
 
-![Sonya](./Img/UserAvatar/6.png)
+![Sonya](./Img/UserAvatar/Sonya.png)
 
 Sonya is in her early twenties currently working irregular hours in the hospitality industry. She loves to code as a hobby and is undecided regarding whether to make the transition into technology. Sonya is a transgender woman and she would like to connect with people in a safe, non-judgemental environment with like minded people. She would like to build on her current skills and to gain more perspective on whether the technology industry is worth making the career change.
 
@@ -159,9 +164,9 @@ As a coding enthusiast I want to:
 
 
 
-####  User: Melissa
+####  User: 4
 
-![Melissa](./Img/UserAvatar/1.png)
+![Melissa](./Img/UserAvatar/melissa.png)
 
 Melissa, a 14 year old highschool student who likes video games and has an interest in tech but she sees that tech and video games are dominated by men. She would like to learn how to code but does not know where to start.
 

@@ -101,6 +101,10 @@ Below we created an architecture diagram which outlines our initial application 
 
 It outlines how user requests are handled between the front-end, back-end and database. Once a request is made on the front-end, a request is sent to the back-end of the application, which is handled by the controller layer of the Ruby on Rails framework. The 'controller' layer interacts with the 'model' layer which handles database requests. Data is then passed back to the controller and on to the front-end which is delivered to the user as a response.
 
+<p align="center"> 
+  <img  src="./Img/archDiagram.jpeg">
+</p>
+
 
 # <p align="center"> R4. User Stories
 </p>
@@ -213,13 +217,6 @@ As a beginner coder I want to:
 ![profile page](./Img/WireFrames/Profile.png)
 
 ![profile page](./Img/WireFrames/privatemessage.png)
-
-
-
-
-
-
-
 
 
 

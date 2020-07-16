@@ -28,14 +28,15 @@ The purpose of the website is to provide a place for women, and who identify as 
 ### Functionality/ Features
 
 
-The features of the website are aimed to provide a place for users to safetly interact with one another
+The features of the website are aimed to provide a place for users to safetly interact with one another.
 
 <b> Forums </b>
-  * Creation and commenting on forums .
-  * Contains a full selection of forum categories that include:
+  * Contains a full selection of forum categories to post on that include:
     * Forums by programming language.
     * Career progression/work advice.
     * Getting to know/'Introduce Yourself' forum.
+  * Creation of posts and comments on forums.
+  * Display preferred pronouns under user info. 
 
 <b>Blogs</b>
   * Writing and submiting a blog to be made public.
@@ -45,6 +46,7 @@ The features of the website are aimed to provide a place for users to safetly in
   * Creating, editing, and deleting an account.
   * Login with a username.
   * User authentication.
+  * Display pronouns
   * Modifying a skill table for other users to see.
   * Have the ability to display publicly the meet ups they are attending.
   * Display git projects and blogs on their profile.

@@ -257,5 +257,9 @@ Following our Trello board, today we worked on our Dataflow and Architecture dia
 
 We had a stand-up today, before having the meeting with Mike we discussed what things we could ask Mike. After working together on the feedback Mike gave us about our Dataflow diagram, we tried to find a name for our project as we still can’t decide on a name, we ended up with a short list of names but we decided that we need more time to choose the right name. We worked together on the presentation using Google Slides and finished it before lunch as planned.
 
+<img width="400" src="./Img/Day4Planning/trello_716.png">
+<img width="400" src="./Img/Day4Planning/trello_7161.png">
+<img width="400" src="./Img/Day4Planning/trello_7162.png">
+
 #### Day 5
 ###### 17/07/2020

@@ -245,6 +245,9 @@ We decided to begin with first writing the description of the website, as this c
 
 We began the day off with a stand-up. We decided to finish off the web and mobile WireFrames, as we previously decided them to be finished today. As we were using figma, it allowed us to all work together. We assigned each team member to either work on the web components or the mobile components, in order to make sure tasks were clear. We additionally decided on finishing up the user stories. We were all allocated to make individual user stories. 
 
+
+<img width="400" src="./Img/Day2Planning/trello_7142.png">
+
 #### Day 3
 ###### 15/07/2020
 

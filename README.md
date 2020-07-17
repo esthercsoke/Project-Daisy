@@ -223,7 +223,7 @@ As a beginner coder I want to:
 
 ![profile page](./Img/WireFrames/privatemessage.png)
 
-
+![profile page](./Img/WireFrames/siteMap.png)
 
 ## Planning
 

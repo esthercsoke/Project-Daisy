@@ -270,5 +270,7 @@ We had a stand-up today, before having the meeting with Mike we discussed what t
 
 Following the mornings mentor talk we made a breif presentation, introducing our temporarily named "Project Daisy" to the class. We discussed our target audience, features, user stories and our wireframes. Following the presentations we regrouped and had a breif stand up discussing what we needed to finalise our submission for 'Part A' of our assignment. Also, we decided to create the front-end and back-end of our project before the weekend. Last'y,We decided to use Jira as our project management system, adopting a more agile methadogly going forward with out assignment. We spent time learning and experimenting with this software before next week.
 
+<img width="400" src="./Img/Day5Planning/trello_717.png">
+<img width="400" src="./Img/Day5Planning/trello_7171.png">
 <img width="400" src="./Img/Day5Planning/jira.png">
 <img width="400" src="./Img/Day5Planning/jira2.png">

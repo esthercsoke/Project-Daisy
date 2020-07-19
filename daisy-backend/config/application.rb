@@ -38,7 +38,11 @@ module Projectdaisy
       headers: :any,
       expose: ['access-token', 'expiry', 'token-type', 'uid', 'client'],
       methods: [:get, :post, :options, :delete, :put]
+<<<<<<< HEAD
       end
+=======
+        end
+>>>>>>> a14c0090ce2fcbd364ef36bbdc5233cb3c29bbc1
       end
       
   end
